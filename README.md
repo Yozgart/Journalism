@@ -12,7 +12,7 @@ The beat reporters will go out and investigate the relationship you find, sourci
 
 ## Your Task
 
-### Level 1: D3 Dabbler
+### Level 1: D3 Dabbler.
 
 ![4-scatter](Images/4-scatter.jpg)
 
